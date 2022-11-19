@@ -1,0 +1,15 @@
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\bin\Debug\net5.0\Member.Domain.deps.json
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\bin\Debug\net5.0\Member.Domain.runtimeconfig.json
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\bin\Debug\net5.0\Member.Domain.runtimeconfig.dev.json
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\bin\Debug\net5.0\Member.Domain.dll
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\bin\Debug\net5.0\Member.Domain.pdb
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\obj\Debug\net5.0\Member.Domain.csproj.AssemblyReference.cache
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\obj\Debug\net5.0\Member.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\obj\Debug\net5.0\Member.Domain.AssemblyInfoInputs.cache
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\obj\Debug\net5.0\Member.Domain.AssemblyInfo.cs
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\obj\Debug\net5.0\Member.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\obj\Debug\net5.0\Member.Domain.dll
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\obj\Debug\net5.0\refint\Member.Domain.dll
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\obj\Debug\net5.0\Member.Domain.pdb
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\obj\Debug\net5.0\Member.Domain.genruntimeconfig.cache
+C:\Users\ayseo\OneDrive\Masaüstü\papara eğitim\Homework\Member.API\Member.API\Member.Domain\obj\Debug\net5.0\ref\Member.Domain.dll
